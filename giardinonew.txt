@@ -1,0 +1,19 @@
+Check-In Information:
+    Time: Check-in is available from 16:00 to 00:00.
+    Procedure: Guests should inform the property in advance of their arrival time. Use code 1234 for the lockbox near the main entrance for self check-in.
+    Early Check-In: Subject to availability. Contact the host via WhatsApp at https://wa.me/3932765 or call +3934343434.
+
+Check-Out Information:
+    Time: Check-out is from 2:00 AM to 10:00 AM.
+    Late Check-Out: Available upon request, subject to an additional fee. Contact the host via WhatsApp at https://wa.me/3932765 or call +3934343434.
+    Procedure: Throw trash away, turn things off, return keys, and lock up
+
+Wi-Fi Access:
+    Network Name: Wi-Fi Network
+    Password: Property123
+
+Emergency Contacts:
+    Ambulance: 118
+    Police: 113
+    Fire Department: 115
+    EU Emergency number: 112.
